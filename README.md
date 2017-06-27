@@ -1,5 +1,7 @@
-### Creating a preliminary set of figures for 18S tag sequencing
+# Creating a preliminary set of figures for 18S tag sequencing
 Scripts provided follow QC_steps_V4_tagsequencing test files. Purpose of this is to generate a preliminary set of figures (and a table!) that give you a first look of your new tag sequence data. As written it is specific to 18S tag sequencing projects using the PR2 database. But, of course can be modified for other tag sequencing results.
+
+Originally created for an in-lab tutorial for evaluating tag sequencing data.
 
 ## Prerequisites
 To follow this step by step guide, use V4_OTUtable_test.txt
@@ -68,6 +70,8 @@ The output from the PR2 database has a long list of taxa to the approximately sp
 Function specifically separates out the PR2 output into Levels and then takes the information from the various levels to fill in a newly created "Taxa" column. Then I aggregate the data, or sum the data, by the taxonomic group designated by "Taxa". 
 
 ## Community composition - relative abundance of sequences
+
+
 
 
 
