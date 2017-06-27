@@ -41,7 +41,7 @@ biom convert -i V4_tagseq_test.biom -o V4_OTUtable_test.txt --to-tsv --header-ke
 ## Jupyter R notebook OTUtable_to_PrelimFigs_R
 
 Import test OTU table. This includes 5 samples (columns) with a total of 1,998 OTUs (each OTU is a row). Rscript imports OTU table and produces these three graphs which provide the user with a first look at the data!
-[[/galadriel/sarah/git_dir/PreliminaryFigs_V4_tagseq/headcount_output.png]]
+![headcount](/galadriel/sarah/git_dir/PreliminaryFigs_V4_tagseq/headcount_output.png)
 
 ### Total number of sequences in each sample
 
