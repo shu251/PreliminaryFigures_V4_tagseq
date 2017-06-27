@@ -44,11 +44,14 @@ Import test OTU table. This includes 5 samples (columns) with a total of 1,998 O
 ![headcount](https://github.com/shu251/figs/blob/master/headcount_output.png)
 
 ### Total number of sequences in each sample
+![totalseqs](https://github.com/shu251/figs/blob/master/seq_stats_graphs.png)
 
 ### Total number of OTUs in each sample
+![TotalOTUs](https://github.com/shu251/figs/blob/master/totalOTUs.png)
 
 ### Distribution of OTUs in each sample (i.e. how many are singleton OTUs?)
 Note that the script removes global singletons (OTUs with only one sequence in the whole dataset), so the singleton OTUs shown in red are OTUs with 1 sequence in a sample, but that same OTU was detecte elsewhere.
+![OTUdist](https://github.com/shu251/figs/blob/master/OTUdistribution.png)
 
 ### RData up to this point is saved as "Checkpoint1_PrelimFigs.RData", and can be loaded here.
 
@@ -62,7 +65,7 @@ Using the vegan package, I calculated Shannon and inverse Simpsons diversity met
 https://cran.r-project.org/web/packages/vegan/vegan.pdf
 
 Comparing diversity metrics between samples
-
+![alpha](https://github.com/shu251/figs/blob/master/alpha_div.png)
 In this test example, Sample 1 appears to be more diverse than the other samples.
 
 ## Simplifying PR2 taxonomy output and making a community composition plot 
@@ -71,7 +74,7 @@ Function specifically separates out the PR2 output into Levels and then takes th
 
 ## Community composition - relative abundance of sequences
 
-
+![Community composition](https://github.com/shu251/figs/blob/master/CommunityComposition.png)
 
 
 
