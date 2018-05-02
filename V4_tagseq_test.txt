@@ -1,0 +1,232 @@
+# Constructed from biom file
+#OTU ID	Test02	Test04	Test01	Test03	taxonomy
+FJ217814.1.1521_U	17.0	12.0	10.0	12.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+AE016820.470424.472218_U	0.0	0.0	0.0	1.0	None
+JF521619.1.1736_U	1.0	0.0	1.0	2.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Alexandrium; Alexandrium_minutum; 
+KJ759412.1.1803_U	0.0	12.0	0.0	0.0	Eukaryota; Opisthokonta; Metazoa; Arthropoda; Crustacea; Maxillopoda; Maxillopoda_X; Maxillopoda_X_sp.; 
+GQ337706.1.1131_U	4.0	2.0	1.0	1.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-5; Dino-Group-I-Clade-5_X; Dino-Group-I-Clade-5_X_sp.; 
+U42082.1.1721_U	0.0	1.0	0.0	0.0	None
+FJ914412.1.1524_U	0.0	0.0	0.0	11.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Warnowia; Warnowia_sp.; 
+EU371356.1.1766_U	0.0	1.0	0.0	0.0	None
+EU780590.1.1641_U	1.0	0.0	1.0	0.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-5; Dino-Group-I-Clade-5_X; Dino-Group-I-Clade-5_X_sp.; 
+EF173005.1.1679_U	0.0	0.0	0.0	1.0	None
+EU793087.1.924_U	1.0	0.0	0.0	0.0	None
+AY426868.1.1778_U	2.0	0.0	0.0	0.0	Eukaryota; Opisthokonta; Choanoflagellida; Choanoflagellatea; Acanthoecida; Stephanoecidae_Group_E; Stephanoecidae_Group_E_X; Stephanoecidae_Group_E_X_sp.; 
+JF791061.1.1777_U	11.0	3.0	1.0	3.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-4; Dino-Group-I-Clade-4_X; Dino-Group-I-Clade-4_X_sp.; 
+KJ764053.1.1798_U	0.0	0.0	1.0	0.0	None
+KJ759558.1.1800_U	0.0	1.0	0.0	0.0	None
+KJ759269.1.1802_U	1.0	0.0	0.0	0.0	None
+AY665053.1.1754_U	28.0	24.0	14.0	22.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+AB284159.1.1765_U	1.0	3.0	2.0	5.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Protoperidinium; Protoperidinium_pellucidum; 
+HM581705.1.1793_U	0.0	1.0	0.0	3.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Prorocentrum
+FJ431723.1.830_U	3.0	0.0	2.0	0.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-III; Dino-Group-III_X; Dino-Group-III_XX; Dino-Group-III_XX_sp.; 
+GU825710.1.1199_U	1.0	0.0	2.0	0.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+KC582905.1.1790_U	0.0	1.0	0.0	0.0	None
+GU820212.1.1071_U	1.0	2.0	1.0	0.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Gonyaulax; Gonyaulax_polygramma; 
+GU824444.1.1204_U	0.0	0.0	1.0	0.0	None
+KC488382.1.1651_U	1.0	1.0	0.0	0.0	Eukaryota; Alveolata; Ciliophora; Spirotrichea; Strombidiida; Strombidiidae_K; Strombidiidae_K_X; Strombidiidae_K_X_sp.; 
+HQ866404.1.890_U	0.0	0.0	0.0	1.0	None
+AY664968.1.1756_U	0.0	0.0	2.0	0.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+FJ402950.1.1220_U	0.0	0.0	3.0	1.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Neoceratium; Neoceratium_petersii; 
+HQ867351.1.869_U	1.0	0.0	0.0	0.0	None
+KF129679.1.1745_U	0.0	1.0	0.0	0.0	None
+EU371327.1.1749_U	0.0	1.0	0.0	1.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+KJ759704.1.1802_U	1.0	0.0	0.0	0.0	None
+EU143391.1.906_U	4.0	0.0	0.0	0.0	Eukaryota; Archaeplastida; Chlorophyta; Chlorodendrophyceae; Chlorodendrales; Chlorodendraceae; Chlorodendrales_XX; Chlorodendrales_XX_sp.; 
+HQ869055.1.899_U	3.0	3.0	0.0	0.0	Eukaryota; Opisthokonta; Opisthokonta_X; Opisthokonta_XX; Opisthokonta_XXX; Opisthokonta_XXXX; Opisthokonta_XXXXX; Opisthokonta_XXXXX_sp.; 
+FJ914418.1.1511_U	2.0	3.0	3.0	1.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Suessiales; Suessiales_X; Karlodinium; Karlodinium_sp.; 
+AF274249.1.1756_U	2.0	0.0	8.0	0.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+KF130214.1.1759_U	2.0	0.0	0.0	0.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-II; Dino-Group-II-Clade-10-and-11; Dino-Group-II-Clade-10-and-11_X; Dino-Group-II-Clade-10-and-11_X_sp.; 
+AB016539.1.1726_U	0.0	0.0	1.0	1.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Suessiales; Suessiales_X
+KJ759416.1.1799_U	0.0	0.0	0.0	1.0	None
+KF129639.1.1754_U	1.0	0.0	0.0	0.0	None
+AY665124.1.1756_U	0.0	0.0	2.0	0.0	Eukaryota; Opisthokonta; Metazoa; Arthropoda; Crustacea; Maxillopoda; Maxillopoda_X; Maxillopoda_X_sp.; 
+GU820080.1.1070_U	10.0	3.0	0.0	2.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X; Dino-Group-I-Clade-1_X_sp.; 
+EU418960.1.1589_U	0.0	0.0	2.0	0.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Cochlodinium; Cochlodinium_polykrikoides; 
+GU969205.1.1701_U	3.0	0.0	0.0	0.0	Eukaryota; Opisthokonta; Metazoa; Arthropoda; Crustacea; Maxillopoda; Copilia; Copilia_mirabilis; 
+EU091830.1.1344_U	0.0	3.0	0.0	0.0	Eukaryota; Opisthokonta; Fungi
+EU499988.1.803_U	2.0	13.0	10.0	5.0	Eukaryota; Stramenopiles; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Raphid-pennate
+HQ867353.1.875_U	0.0	3.0	0.0	7.0	Eukaryota; Opisthokonta; Metazoa; Arthropoda; Crustacea; Maxillopoda; Maxillopoda_X; Maxillopoda_X_sp.; 
+KC583146.1.1100_U	32.0	0.0	37.0	0.0	Eukaryota; Opisthokonta; Metazoa; Arthropoda; Crustacea; Maxillopoda; Maxillopoda_X; Maxillopoda_X_sp.; 
+GU824787.1.1070_U	0.0	6.0	3.0	4.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+JF698775.1.1643_U	0.0	0.0	1.0	0.0	None
+AF293686.1.1802_U	4.0	0.0	0.0	0.0	Eukaryota; Opisthokonta; Metazoa; Ctenophora; Ctenophora_X; Ctenophora_XX
+GU823844.1.1196_U	0.0	1.0	0.0	0.0	None
+HQ599441.1.1703_U	1.0	0.0	0.0	0.0	None
+KJ763588.1.1798_U	1.0	1.0	1.0	0.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+HE860253.1.1759_U	0.0	0.0	0.0	1.0	None
+KF129737.1.1746_U	0.0	0.0	1.0	0.0	None
+GU824677.1.1204_U	1.0	0.0	0.0	0.0	None
+KJ760718.1.1796_U	0.0	0.0	0.0	2.0	Eukaryota; Opisthokonta; Metazoa; Arthropoda; Crustacea; Maxillopoda; Maxillopoda_X; Maxillopoda_X_sp.; 
+EU545707.1.962_U	2.0	0.0	0.0	0.0	Eukaryota; Stramenopiles; Stramenopiles_X; MAST; MAST-1; MAST-1C; MAST-1C_X; MAST-1C_X_sp.; 
+EF173008.1.1679_U	0.0	1.0	0.0	0.0	None
+HE611580.1.1746_U	6.0	5.0	9.0	7.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+AY664921.1.1754_U	2.0	4.0	4.0	7.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+AY256270.1.1308_U	2.0	0.0	0.0	0.0	Eukaryota; Hacrobia; Telonemia; Telonemia_X; Telonemia_XX; Telonemia-Group-2; Telonemia-Group-2_X; Telonemia-Group-2_X_sp.; 
+EU733575.1.1049_UC	1.0	1.0	1.0	4.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX
+EU793371.1.1679_U	1.0	0.0	0.0	0.0	None
+EU754117.1.1022_U	0.0	0.0	1.0	0.0	None
+EU780610.1.1636_U	0.0	0.0	0.0	1.0	None
+AB088311.1.1800_U	2.0	0.0	2.0	1.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Alexandrium; Alexandrium_affine; 
+FN690221.1.1692_U	0.0	1.0	2.0	3.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+KF031735.1.1743_U	0.0	0.0	2.0	2.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-4; Dino-Group-I-Clade-4_X; Dino-Group-I-Clade-4_X_sp.; 
+KF129735.1.1757_U	1.0	0.0	0.0	0.0	None
+GU823874.1.1201_U	2.0	0.0	0.0	0.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Lepidodinium; Lepidodinium_chlorophorum; 
+KJ759346.1.1802_U	0.0	0.0	3.0	0.0	Eukaryota; Opisthokonta; Metazoa; Arthropoda; Crustacea; Maxillopoda; Maxillopoda_X; Maxillopoda_X_sp.; 
+HM749923.1.1468_U	1.0	0.0	2.0	0.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+FJ765372.1.863_U	0.0	0.0	2.0	0.0	Eukaryota; Opisthokonta
+GU820527.1.1070_U	2.0	0.0	0.0	0.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-II
+GU969160.1.1706_U	0.0	1.0	0.0	0.0	None
+FJ914542.1.1528_U	5.0	4.0	0.0	2.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X; Dino-Group-I-Clade-1_X_sp.; 
+HM051056.1.1746_U	0.0	0.0	3.0	1.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+FJ402953.1.1215_U	7.0	3.0	0.0	8.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Neoceratium
+JX995311.1.1747_U	8.0	31.0	19.0	9.0	Eukaryota; Opisthokonta; Metazoa; Arthropoda; Crustacea; Maxillopoda; Maxillopoda_X; Maxillopoda_X_sp.; 
+KJ759696.1.1796_U	0.0	0.0	1.0	0.0	None
+JQ781989.1.1805_U	1.0	0.0	0.0	0.0	None
+GU823633.1.1215_U	2.0	0.0	0.0	0.0	Eukaryota; Stramenopiles; Stramenopiles_X; MAST; MAST-3; MAST-3D; MAST-3D_X; MAST-3D_X_sp.; 
+HQ867355.1.870_U	0.0	0.0	0.0	1.0	None
+GU825315.1.1202_U	169.0	132.0	154.0	82.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+HQ865407.1.885_U	2.0	1.0	3.0	2.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-V; Dino-Group-V_X; Dino-Group-V_XX; Dino-Group-V_XX_sp.; 
+EU500010.1.819_U	1.0	0.0	0.0	0.0	None
+HM581766.1.1782_U	4.0	2.0	1.0	2.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+KJ763730.1.1797_U	0.0	1.0	2.0	1.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+AY628345.1.822_U	0.0	2.0	0.0	0.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Gyrodinium; Gyrodinium_fusiforme; 
+HQ865108.1.864_U	0.0	0.0	1.0	0.0	None
+HQ866263.1.888_U	0.0	2.0	0.0	0.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-II; Dino-Group-II-Clade-30; Dino-Group-II-Clade-30_X; Dino-Group-II-Clade-30_X_sp.; 
+EU500118.1.810_U	0.0	0.0	2.0	4.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Gymnodinium; Gymnodinium_sp.; 
+KF129758.1.1746_U	2.0	0.0	0.0	0.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-5; Dino-Group-I-Clade-5_X; Dino-Group-I-Clade-5_X_sp.; 
+KJ759703.1.1812_U	2.0	1.0	0.0	0.0	Eukaryota; Opisthokonta; Metazoa; Urochordata; Urochordata_X; Appendicularia; Appendicularia_X; Appendicularia_X_sp.; 
+HQ867046.1.884_U	1.0	23.0	1.0	0.0	Eukaryota; Opisthokonta; Metazoa; Cnidaria; Cnidaria_X; Hydrozoa; Hydrozoa_X; Hydrozoa_X_sp.; 
+KF130183.1.1714_U	0.0	0.0	0.0	1.0	None
+X81965.1.2214_G	0.0	1.0	0.0	0.0	None
+HM561278.1.944_U	1.0	1.0	0.0	0.0	Eukaryota; Hacrobia; Telonemia; Telonemia_X; Telonemia_XX; Telonemia-Group-2; Telonemia-Group-2_X; Telonemia-Group-2_X_sp.; 
+FJ350428.1.1043_U	0.0	0.0	0.0	1.0	None
+GU824358.1.1200_U	0.0	4.0	1.0	0.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Warnowia; Warnowia_sp.; 
+GU825088.1.1075_U	2.0	6.0	10.0	5.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Prorocentrum; Prorocentrum_minimum; 
+DQ386751.1.1531_U	0.0	0.0	1.0	0.0	None
+KF031875.1.1776_U	0.0	3.0	0.0	0.0	Eukaryota; Opisthokonta; Metazoa; Urochordata; Urochordata_X; Appendicularia; Oikopleura; Oikopleura_dioica; 
+AY664982.1.1755_U	10.0	4.0	5.0	13.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Blastodinium; Blastodinium_spinulosum; 
+FJ422993.1.1778_U	1.0	0.0	0.0	1.0	Eukaryota; Alveolata; Ciliophora; Spirotrichea; Strombidiida; Tontoniidae_B; Pseudotontonia; Pseudotontonia_sp.; 
+GU214555.1.1736_U	0.0	1.0	1.0	0.0	Eukaryota; Opisthokonta; Metazoa; Cnidaria; Cnidaria_X; Hydrozoa
+EF526908.1.1342_U	2.0	0.0	0.0	0.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-II; Dino-Group-II-Clade-5; Dino-Group-II-Clade-5_X; Dino-Group-II-Clade-5_X_sp.; 
+KC582969.1.1808_U	0.0	0.0	0.0	1.0	None
+AF448155.1.1814_U	3.0	0.0	0.0	0.0	Eukaryota; Opisthokonta; Metazoa; Annelida; Annelida_X; Annelida_XX; Eteone; Eteone_picta; 
+HQ866503.1.888_U	0.0	1.0	0.0	0.0	None
+FJ914467.1.1525_U	0.0	1.0	0.0	0.0	None
+AY664991.1.1752_U	11.0	3.0	7.0	1.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Suessiales; Suessiales_X; Karlodinium; Karlodinium_sp.; 
+AJ506973.1.1802_U	0.0	1.0	0.0	0.0	None
+GQ468541.1.1704_U	0.0	1.0	1.0	0.0	Eukaryota; Stramenopiles; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Raphid-pennate; Cylindrotheca; Cylindrotheca_closterium; 
+AACY020102112.1.1515_U	2.0	2.0	0.0	0.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-II
+FJ000250.1.1382_U	1.0	0.0	0.0	0.0	None
+AM408889.1.1796_U	1.0	0.0	0.0	0.0	None
+FJ607492.1.1187_U	0.0	0.0	1.0	0.0	None
+GU824357.1.1199_U	0.0	1.0	0.0	0.0	None
+GU825328.1.1072_U	1.0	0.0	0.0	0.0	None
+AM490979	1.0	0.0	0.0	0.0	None
+FJ393442.1.1001_U	1.0	0.0	0.0	0.0	None
+KF130086.1.1747_U	0.0	0.0	0.0	1.0	None
+KF031906.1.1773_U	0.0	1.0	0.0	0.0	None
+KC488375.1.1634_U	3.0	0.0	0.0	0.0	Eukaryota; Alveolata; Ciliophora; Colpodea; Colpodea-1; Colpodea-1_X; Colpodea-1_XX; Colpodea-1_XX_sp.; 
+EF526734.1.1556_U	0.0	1.0	0.0	0.0	None
+AB564309.1.1690_U	0.0	0.0	0.0	1.0	None
+FR874611.1.1791_U	1.0	0.0	0.0	0.0	None
+EU780629.1.1715_U	1.0	3.0	10.0	6.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+FJ402961.1.1214_U	0.0	0.0	1.0	0.0	None
+EF219017.1.1703_U	0.0	4.0	0.0	0.0	Eukaryota; Opisthokonta; Metazoa; Arthropoda; Crustacea; Maxillopoda; Maxillopoda_X; Maxillopoda_X_sp.; 
+EU780621.1.1699_U	0.0	1.0	2.0	0.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Suessiales; Suessiales_X; Karlodinium; Karlodinium_sp.; 
+EU793679.1.1663_U	0.0	1.0	2.0	2.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-5; Dino-Group-I-Clade-5_X; Dino-Group-I-Clade-5_X_sp.; 
+GU825687.1.1200_U	0.0	1.0	1.0	0.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX
+JQ956275.1.1697_U	1.0	0.0	0.0	0.0	None
+GU969173.1.1738_U	0.0	0.0	0.0	1.0	None
+GU969156.1.1734_U	0.0	17.0	0.0	0.0	Eukaryota; Opisthokonta; Metazoa; Arthropoda; Crustacea; Maxillopoda; Acrocalanus
+HM853805.1.1191_U	0.0	5.0	0.0	0.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophysiales; Dinophysaceae_Oxyphysaceae; Phalacroma; Phalacroma_doryphorum; 
+EU780611.1.1669_U	3.0	0.0	0.0	1.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-II; Dino-Group-II-Clade-10-and-11; Dino-Group-II-Clade-10-and-11_X; Dino-Group-II-Clade-10-and-11_X_sp.; 
+HQ866914.1.894_U	1.0	2.0	0.0	0.0	Eukaryota; Stramenopiles; Ochrophyta; Dictyochophyceae; Dictyochophyceae_X; Dictyochales; Dictyocha; Dictyocha_globosa; 
+EF527080.1.1343_U	5.0	3.0	0.0	2.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX
+HQ870366.1.850_U	1.0	0.0	0.0	0.0	None
+KJ759396.1.1787_U	0.0	0.0	2.0	2.0	Eukaryota; Alveolata; Dinophyta; Syndiniales
+FN690116.1.1707_U	1.0	2.0	1.0	5.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Suessiales; Suessiales_X; Pelagodinium; Pelagodinium_beii; 
+AB686256.1.1717_U	0.0	1.0	0.0	0.0	None
+GU825414.1.1202_U	2.0	0.0	4.0	7.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Protoperidinium; Protoperidinium_tricingulatum; 
+KJ763611.1.1765_U	3.0	0.0	0.0	0.0	Eukaryota; Alveolata; Ciliophora; Oligohymenophorea; Scuticociliatia; Scuticociliatia-1; Scuticociliatia-1_X; Scuticociliatia-1_X_sp.; 
+KJ757967.1.1798_U	0.0	0.0	1.0	0.0	None
+GU824131.1.1204_U	0.0	2.0	0.0	0.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+JQ697707.1.1720_U	0.0	2.0	0.0	0.0	Eukaryota; Rhizaria; Radiolaria; Acantharea; Arthracanthida-Symphyacanthida; Arthracanthida-Symphyacanthida_X; Phyllostaurus; Phyllostaurus_cuspidatus; 
+KF031753.1.1764_U	0.0	2.0	0.0	0.0	Eukaryota; Opisthokonta; Metazoa; Arthropoda; Crustacea; Maxillopoda; Clausocalanus; Clausocalanus_furcatus; 
+AF022196.1.1803_U	0.0	0.0	1.0	0.0	None
+HQ869237.1.867_U	0.0	1.0	0.0	0.0	None
+EU780613.1.1717_U	0.0	1.0	0.0	0.0	None
+GU820270.1.1197_U	4.0	1.0	0.0	0.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-6; Dino-Group-I-Clade-6_X; Dino-Group-I-Clade-6_X_sp.; 
+KC438296.1.2220_U	1.0	1.0	1.0	3.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+HQ877901	1.0	0.0	0.0	0.0	None
+EU087269.1.895_U	4.0	1.0	1.0	1.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX
+KJ760421.1.1800_U	0.0	0.0	0.0	6.0	Eukaryota; Opisthokonta; Metazoa; Arthropoda; Crustacea; Maxillopoda; Maxillopoda_X; Maxillopoda_X_sp.; 
+HQ870652.1.849_U	0.0	0.0	0.0	1.0	None
+GU969206.1.1701_U	1.0	0.0	0.0	0.0	None
+KC488433.1.1690_U	0.0	1.0	0.0	0.0	None
+GU824938.1.1223_U	0.0	1.0	0.0	0.0	None
+GU820631.1.1072_U	0.0	1.0	0.0	0.0	None
+GU821715.1.1075_U	0.0	0.0	1.0	0.0	None
+KC771213.1.1796_U	0.0	0.0	0.0	1.0	None
+KJ760599.1.1803_U	0.0	3.0	1.0	85.0	Eukaryota; Opisthokonta; Metazoa; Arthropoda; Crustacea; Maxillopoda; Maxillopoda_X; Maxillopoda_X_sp.; 
+EU287796.1.1798_U	0.0	1.0	0.0	0.0	None
+JF698780.1.1619_U	0.0	1.0	0.0	0.0	None
+EU793747.1.935_U	0.0	0.0	1.0	0.0	None
+KF130179.1.1757_U	0.0	2.0	0.0	0.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-II; Dino-Group-II-Clade-3; Dino-Group-II-Clade-3_X; Dino-Group-II-Clade-3_X_sp.; 
+KJ759359.1.1776_U	1.0	0.0	0.0	0.0	None
+JF308273	1.0	0.0	0.0	0.0	None
+GU820078.1.1202_U	1.0	0.0	0.0	0.0	None
+FN690213.1.1686_U	1.0	1.0	1.0	0.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+GU820011.1.1239_U	0.0	2.0	3.0	1.0	Eukaryota; Alveolata
+FJ402958.1.1210_U	0.0	0.0	1.0	0.0	None
+GU355682.1.1194_U	1.0	0.0	0.0	0.0	None
+GU820478.1.1071_U	2.0	0.0	0.0	0.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-4; Dino-Group-I-Clade-4_X; Dino-Group-I-Clade-4_X_sp.; 
+AF514342.1.1802_U	0.0	3.0	0.0	0.0	Eukaryota; Opisthokonta; Metazoa; Arthropoda; Crustacea; Maxillopoda; Neocalanus
+JQ782004.1.1784_U	0.0	0.0	0.0	1.0	None
+GU825530.1.1197_U	0.0	1.0	1.0	1.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+JF826364.1.1609_U	0.0	0.0	0.0	2.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+EU780604.1.1660_U	0.0	0.0	1.0	0.0	None
+AY665031.1.1749_U	0.0	0.0	0.0	1.0	None
+AY129038.1.1800_U	0.0	0.0	2.0	1.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-II; Dino-Group-II-Clade-3; Dino-Group-II-Clade-3_X; Dino-Group-II-Clade-3_X_sp.; 
+GU823894.1.1386_U	1.0	0.0	0.0	0.0	None
+AF358094.1.1823_U	0.0	2.0	0.0	0.0	Eukaryota; Opisthokonta; Metazoa; Cnidaria; Cnidaria_X; Hydrozoa; Sulculeolaria; Sulculeolaria_quadrivalvis; 
+GU175705.1.1787_U	0.0	0.0	2.0	0.0	Eukaryota; Opisthokonta; Metazoa; Urochordata; Urochordata_X; Ascidiacea; Doliolum; Doliolum_denticulatum; 
+HQ867071.1.870_U	0.0	1.0	0.0	0.0	None
+FN598339.1.1137_U	0.0	0.0	1.0	0.0	None
+GU825000.1.1197_U	5.0	0.0	0.0	0.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+GQ410644.1.1808_U	0.0	2.0	0.0	1.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+EF172977.1.1676_U	1.0	0.0	1.0	0.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-II; Dino-Group-II-Clade-7; Dino-Group-II-Clade-7_X; Dino-Group-II-Clade-7_X_sp.; 
+GU820637.1.1068_U	0.0	1.0	0.0	0.0	None
+GU824513.1.1198_U	0.0	1.0	0.0	0.0	None
+KJ759535.1.1800_U	3.0	0.0	1.0	0.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Dinophyceae_XXX; Dinophyceae_XXX_sp.; 
+KF130052.1.1757_U	1.0	0.0	0.0	0.0	None
+AY129052.1.1800_U	0.0	0.0	1.0	0.0	None
+GU824603.1.1223_U	0.0	0.0	1.0	0.0	None
+DQ785882.606.2409_U	0.0	0.0	1.0	0.0	None
+KC582894.1.1795_U	0.0	0.0	0.0	3.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-II; Dino-Group-II-Clade-2; Dino-Group-II-Clade-2_X; Dino-Group-II-Clade-2_X_sp.; 
+KF130028.1.1748_U	0.0	2.0	0.0	0.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-5; Dino-Group-I-Clade-5_X; Dino-Group-I-Clade-5_X_sp.; 
+FJ541189.1.1448_U	2.0	1.0	6.0	6.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Blastodinium; Blastodinium_spinulosum; 
+EF526990.1.1547_U	0.0	2.0	0.0	0.0	Eukaryota; Alveolata; Ciliophora; Spirotrichea; Strombidiida; Strombidiidae_H; Strombidiidae_H_X; Strombidiidae_H_X_sp.; 
+EU793278.1.1575_U	1.0	0.0	0.0	0.0	None
+AY664930.1.1752_U	0.0	0.0	0.0	1.0	None
+FJ541187.1.1799_U	11.0	7.0	8.0	5.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Blastodinium; Blastodinium_mangini; 
+EU500060.1.820_U	1.0	0.0	0.0	0.0	None
+HQ869456.1.894_U	0.0	0.0	0.0	1.0	None
+AM494499.1.1802_U	0.0	0.0	1.0	0.0	None
+KF031625.1.1775_U	0.0	2.0	0.0	3.0	Eukaryota; Opisthokonta; Metazoa; Arthropoda; Crustacea; Maxillopoda; Maxillopoda_X; Maxillopoda_X_sp.; 
+EF196771.1.884_U	1.0	0.0	0.0	0.0	None
+EU446370.1.1564_U	0.0	1.0	0.0	0.0	None
+EU793612.1.1555_U	0.0	1.0	0.0	0.0	None
+HQ866297.1.886_U	0.0	0.0	0.0	2.0	Eukaryota; Stramenopiles; Stramenopiles_X; Labyrinthulea; Labyrinthulales; Labyrinthulaceae; Aplanochytrium; Aplanochytrium_sp.; 
+KJ763864.1.1799_U	1.0	0.0	0.0	0.0	None
+AY284752.1.1612_U	1.0	1.0	2.0	1.0	Eukaryota; Rhizaria; Radiolaria; Acantharea; Arthracanthida-Symphyacanthida; Arthracanthida-Symphyacanthida_X; Lychnaspis; Lychnaspis_giltschi; 
+AY143567.1.1682_U	0.0	0.0	1.0	0.0	None
+FJ000188.1.1382_U	1.0	1.0	0.0	0.0	Eukaryota; Alveolata; Dinophyta; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-4; Dino-Group-I-Clade-4_X; Dino-Group-I-Clade-4_X_sp.; 
+GU819785.1.1391_U	1.0	0.0	0.0	0.0	None
+JN098198.1.1539_U	0.0	1.0	0.0	1.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Gymnodinium; Gymnodinium_sp.; 
+FJ467491.1.1211_U	0.0	0.0	0.0	1.0	None
+EF527109.1.1755_U	0.0	0.0	2.0	0.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Neoceratium; Neoceratium_concilians; 
+HQ867323.1.882_U	0.0	0.0	0.0	1.0	None
+HQ896315.1.1736_U	2.0	7.0	0.0	0.0	Eukaryota; Alveolata; Dinophyta; Dinophyceae; Dinophyceae_X; Dinophyceae_XX; Cochlodinium; Cochlodinium_fulvescens; 
+GU825330.1.1067_U	0.0	1.0	0.0	0.0	None
+EU793004.1.922_U	1.0	0.0	0.0	0.0	None
