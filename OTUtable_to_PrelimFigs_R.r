@@ -5,15 +5,17 @@ library(ggplot2)
 library(vegan)
 library(plyr)
 
-#Import OTU table. Make sure heading looks good.
-count<-read.table('V4_OTUtable_test.txt', sep="\t",header=TRUE)
+#Import OTU table
+count<-read.table('V4_OTUtable_test.txt', sep="\t",header=TRUE, skip=1, comment.char = "")
+# quick view:
+colnames(count)[1]<-"OTU.ID"
 head(count) #make sure samples are column names and OTU.IDs (from PR2) are row names
-dim(count) #V4_OTUtable_test.txt should be 1998 rows and 7 columns
+dim(count) #V4_OTUtable_test.txt should be 6138 rows and 7 columns
 
 
 ##Get quick stats of OTU results
 length(count$OTU.ID) #Total number of OTUs generated
-colsum<-apply(count[2:5],2,sum) #Colums 2:5 are my sample colums
+colsum<-apply(count[2:6],2,sum) #Colums 2:5 are my sample colums
 colsum #number of sequences per sample
 
 ##Filter out OTUs with only 1 sequence, singletons
@@ -53,8 +55,7 @@ bar_stats %+% subset(allM, Figure %in% "Sequences")+labs(title="Total number of 
 #save(counts_only, count.no1, allM, file="Checkpoint1_PrelimFigs.RData") #Optional save R objects
 #load("Checkpoint1_PrelimFigs.RData",verbose=T) #Option to load R objects from previous
 
-#Based on the total number of sequences in each sample, I want to only keep samples with more than 50,000 sequences.
-#Remove Sample 2
+#Based on the total number of sequences in each sample.
 count.no1$Sample_2<-NULL
 head(count.no1)
 
@@ -159,5 +160,3 @@ head(data.agg)
 #Bar plot of community composition
 ggplot(data.agg[order(data.agg$tax),], aes(y=x,fill=tax,x=Samples))+geom_bar(position = "fill", stat = "identity", color="black",aes(fill=tax))+scale_fill_manual(values=tax_color)+labs(title="", x="",y="Relative abundance of reads")+theme_bw()+theme(legend.position="right",axis.text.x = element_text(angle=45, hjust=1,vjust=1,color="black"))
 #Change position = "fill" to position="stack" to look at total abundance
-
-

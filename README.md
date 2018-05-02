@@ -1,46 +1,16 @@
 # Creating a preliminary set of figures for 18S tag sequencing
-Scripts provided follow QC_steps_V4_tagsequencing test files. Purpose of this is to generate a preliminary set of figures (and a table!) that give you a first look of your new tag sequence data. As written it is specific to 18S tag sequencing projects using the PR2 database. But, of course can be modified for other tag sequencing results.
-
+Purpose of this is to generate a preliminary set of figures (and a table!) that give you a first look of your new tag sequence data. As written it is specific to 18S tag-sequencing projects using the PR2 database. But, of course can be modified for other tag sequencing results.
 Originally created for an in-lab tutorial for evaluating tag sequencing data.
 
-## Prerequisites
-To follow this step by step guide, use V4_OTUtable_test.txt
-This is an OTU table from QIIME. Other OTU clustering programs will give you similarly formatted tables.
-
 ## Requirements
-R v3.3.2 or higher
-Jupyter notebook (R)
-
-## How was V4_OTUtable_test.txt made?
-See QC_steps_V4_tagsequencing repo.
-### Quick review of how V4_OTUtable_test.txt was made:
-Depending on the questions you want to ask your data, decide about what type of 
-OTU clustering you want to do (both algorithm and percent similarity).
- 
-QIIME is a great resource for tutorials on OTU clustering - http://qiime.org/tutorials/otu_picking.html#running-the-otu-picking-workflows
-
-In this example I will use open reference OTU picking (Rideout et al. 2014, Peer
-J), via QIIME and the PR2 database.
-```
-#OTU clustering with uclust, will make a new directory (pick_open)
-
-pick_open_reference_otus.py -i allseqs_test.fasta -o pick_open -m uclust -r /gal
-adriel/sarah/PR2/pr2.qiime.fasta --suppress_step4 --suppress_taxonomy_assignment
-cd pick_open
-
-#assign taxonomy using PR2 database, creates a new directory (uclust_taxonomy)
-assign_taxonomy.py -i rep_set.fna -t /galadriel/sarah/PR2/ids.names.2.txt -r /ga
-ladriel/sarah/PR2/pr2.qiime.fasta -m uclust -o uclust_taxonomy
-
-#make an OTU table, and convert to txt
-make_otu_table.py -i final_otu_map.txt -o V4_tagseq_test.biom -t uclust_taxonomy/rep_set_tax_assignments.txt 
-biom convert -i V4_tagseq_test.biom -o V4_OTUtable_test.txt --to-tsv --header-key=taxonomy
-```
-### Use a text editor to remove the comment lines from the QIIME formatted file.
+* R v3.3.2 or higher
+* (optional) Jupyter notebook (R)
+* To follow directly, use product from [OTU clustering in qiime1 tutorial](https://github.com/shu251/V4_tagsequencing_18Sdiversity_q1). Otherwise, ensure you have an OTU table, where each row is an OTU (with a unqiue ID) and each column is a sample (first row is a header/sample name) or follow along with provided text file: 'V4_OTUtable_test.txt'
 
 ## Jupyter R notebook OTUtable_to_PrelimFigs_R
 
-Import test OTU table. This includes 5 samples (columns) with a total of 1,998 OTUs (each OTU is a row). Rscript imports OTU table and produces these three graphs which provide the user with a first look at the data!
+Import test OTU table (same type of OTU table provided by QIIME). This includes 5 samples (columns) with a total of 6138 OTUs (each OTU is a row). Rscript imports OTU table and produces these three graphs which provide the user with a first look at the data!
+Script then removed global singletons and give you stats on how many OTUs and sequences are in your dataset.
 ![headcount](https://github.com/shu251/figs/blob/master/headcount_output.png)
 
 ### Total number of sequences in each sample
